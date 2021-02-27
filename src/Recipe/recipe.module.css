@@ -1,0 +1,26 @@
+.recipe{
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px rgb(66, 66, 66);
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    color: rgb(43, 42, 42);
+    align-items: center;
+    min-width: 30%;
+    font-size: 18px;
+    padding: 1rem;
+}
+
+ol{
+    /* list-style: none; */
+}
+
+.image{
+    border-radius: 50%;
+}
+ol li{
+    text-align: left;
+    /* word-wrap: break-word; */
+
+}
